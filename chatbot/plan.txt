@@ -1,0 +1,8 @@
+TODO:
+.....[.]create npm project
+
+....[.]create index,css,js file
+....[.]install dependencies ,express,nodemon
+....[.]create a express server[server.js]
+....[.]do frontend part
+....[.]install socket.io ,setup socket.io in server.js
